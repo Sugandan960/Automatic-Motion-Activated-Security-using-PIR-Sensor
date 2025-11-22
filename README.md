@@ -1,4 +1,6 @@
-# Automatic-Motion-Activated-Security-using-PIR-Sensor
+N.SUGANDAN 212222060260
+EXP 2 # Automatic-Motion-Activated-Security-using-PIR-Sensor
+
 ## AIM:
              To detect motion using a PIR sensor connected to an Arduino and trigger an LED (using the built-in LED) when motion is sensed.
              
