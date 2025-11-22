@@ -111,7 +111,6 @@ void loop()
 
 
 
-
 # Result:
 The PIR sensor successfully detected motion and triggered the Arduino to turn ON the built-in LED. The LED remained OFF when no motion was present, confirming correct circuit and code functionality.
 
