@@ -108,9 +108,7 @@ void loop()
 
 
 # Output:
-https://private-user-images.githubusercontent.com/165645036/492726509-d9232666-6c78-4002-a6f5-12502e4055b8.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4MjYxODEsIm5iZiI6MTc2MzgyNTg4MSwicGF0aCI6Ii8xNjU2NDUwMzYvNDkyNzI2NTA5LWQ5MjMyNjY2LTZjNzgtNDAwMi1hNmY1LTEyNTAyZTQwNTViOC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMlQxNTM4MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODVlYTAzMzdmNzkxOTYyNGU5OThkMGUxMDdlNTBmZTZiOWQ1ZDcwYmQ1OGRmNGNkYzFmOTViMDljZGQ1NjIxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kcDHQrilIfLBlL1f8vMp2nLh_YgW-6OGDTr4IVrxFPY
-
-
+<img width="1915" height="866" alt="image" src="https://github.com/user-attachments/assets/43097c6c-10c4-469e-b035-8c14379eda24" />
 
 # Result:
 The PIR sensor successfully detected motion and triggered the Arduino to turn ON the built-in LED. The LED remained OFF when no motion was present, confirming correct circuit and code functionality.
